@@ -24,7 +24,7 @@ p {
 }
 
 body {
-    background-image: url("../Images/mh-overview.jpeg");
+    background-image: url("mh-overview.jpeg");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
